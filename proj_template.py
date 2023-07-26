@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name="Spam_Detection"
+project_name="Fake_news_classifer"
 
 list_of_files=[
     f"notebook/{project_name}.ipynb",
